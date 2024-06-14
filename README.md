@@ -1,3 +1,3 @@
 _idiotic on discord
 
-Lua, Javascript, and C#
+Lua, Javascript, HTML, and C#
