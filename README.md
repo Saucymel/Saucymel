@@ -1,3 +1,6 @@
-_idiotic on discord
+_idiotic on discord 🗣️
 
-Lua, Javascript, HTML, and C#
+Lua, Javascript, HTML, and C# ⌨️
+
+Software Cracking 🔒
+Malware Analysis 🧪
